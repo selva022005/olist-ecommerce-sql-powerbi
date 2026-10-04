@@ -30,7 +30,7 @@ Analyze a real-world e-commerce dataset to find key revenue drivers, delivery pe
 - Revenue grew steadily through 2017, peaking around November 2017, and stabilized through 2018
 
 ## Dashboard
-![Dashboard Screenshot](DASHBOARD/dashboard-git.png)
+![Dashboard Screenshot](DASHBOARD/git.png)
 
 ## Files
 - `SQL/analysis_queries.sql` — all cleaning and analysis queries
